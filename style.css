@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  color: lime;
+  font-family: monospace;
+  margin: 40px;
+}
+
+h1 {
+  font-size: 3em;
+  text-shadow: 2px 2px purple;
+}
+
+p {
+  max-width: 600px;
+  line-height: 1.6;
+}
