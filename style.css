@@ -14,11 +14,13 @@ h1 {
 h2 {
   font-size: 2em;
   text-shadow: 2px 2px rgb(137, 184, 192);
+  text-align: center;
   left: -10px;
 }
 
 p {
   max-width: 600px;
   line-height: 1.6;
+  text-align: center;
   left: -20px;
 }
