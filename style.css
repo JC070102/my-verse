@@ -2,15 +2,23 @@ body {
   background-color: rgb(230, 199, 170);
   color: rgb(172, 64, 21);
   font-family: monospace;
-  margin: 540px;
+  margin: px;
 }
 
 h1 {
   font-size: 3em;
-  text-shadow: 2px 2px rgb(76, 83, 12);
+  text-shadow: 3px 3px rgb(76, 83, 12);
+  text-align: center;
+}
+
+h2 {
+  font-size: 2em;
+  text-shadow: 2px 2px rgb(137, 184, 192);
+  left: -10px;
 }
 
 p {
   max-width: 600px;
   line-height: 1.6;
+  left: -20px;
 }
